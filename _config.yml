@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ketchumfion@gmail.com
 description: "Every failure is leading towards success."
 keyword: "大壮家族"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://bigstrongfamily.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bigstrongfamily/bigstrongfamily.github.io.git" # you code repository
 
