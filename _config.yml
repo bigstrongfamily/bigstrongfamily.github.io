@@ -89,7 +89,7 @@ service-worker: false
 
 
 # Friends
-Friends: [
+friends: [
     {
         title: "B站",
         href: "https://space.bilibili.com/411342103/
