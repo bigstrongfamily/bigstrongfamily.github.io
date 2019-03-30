@@ -18,7 +18,7 @@ sidebar-avatar: /img/WeChat Image_20190330212629.jpg      # use absolute URL, se
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+ weibo_username:     大壮家族
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
@@ -97,10 +97,10 @@ service-worker: true
 
 
 # Friends
-friends: [
+Find me: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "B站",
+        href: "https://space.bilibili.com/411342103/
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
