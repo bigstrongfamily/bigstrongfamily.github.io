@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bigstrongfamily/bigstrongfamily.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Welcome to my family!"
 sidebar-avatar: /img/WeChat Image_20190330212629.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -18,8 +18,8 @@ sidebar-avatar: /img/WeChat Image_20190330212629.jpg      # use absolute URL, se
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+weibo_username:     qiubaiying
+# zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
