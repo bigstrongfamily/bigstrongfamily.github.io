@@ -19,10 +19,10 @@ sidebar-avatar: /img/WeChat Image_20190330212629.jpg      # use absolute URL, se
 # SNS settings
 RSS: false
  weibo_username:     大壮家族
-zhihu_username:     
-github_username:    
-facebook_username:  
-jianshu_username:   
+ zhihu_username:     
+ github_username:    
+ facebook_username:  
+ jianshu_username:   
 #twitter_username:   qiubaiying
 
 
@@ -67,11 +67,10 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -85,7 +84,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker: false
 
 
 
