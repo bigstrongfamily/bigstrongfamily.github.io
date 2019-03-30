@@ -89,7 +89,7 @@ service-worker: false
 
 
 # Friends
-Find me: [
+Friends: [
     {
         title: "B站",
         href: "https://space.bilibili.com/411342103/
