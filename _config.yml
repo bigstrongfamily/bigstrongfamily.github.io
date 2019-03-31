@@ -19,9 +19,9 @@ sidebar-avatar: /img/QR.jpg      # use absolute URL, seeing it's used in both `/
 # SNS settings
 RSS: false
 weibo_username:     5896108037
-# zhihu_username:     qiubaiying
+# zhihu_username:     
 github_username:    ketchumfion
-# facebook_username:  baiying.qiu.7
+# facebook_username:  
 jianshu_username:   411342103
 twitter_username:   1
 
