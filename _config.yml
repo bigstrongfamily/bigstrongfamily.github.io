@@ -98,7 +98,10 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "B站",
+        title: "bilibili",
         href: "https://space.bilibili.com/411342103/"
+    },  {
+        title: "微博",
+        href: "https://www.weibo.com/u/5896108037"
     }
 ]
