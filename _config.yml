@@ -103,5 +103,11 @@ friends: [
     },  {
         title: "微博",
         href: "https://www.weibo.com/u/5896108037"
+    },  {
+        title: "Wechat",
+        href: "https://raw.githubusercontent.com/bigstrongfamily/bigstrongfamily.github.io/master/img/QR.jpg"
+    },  {
+        title: "Github",
+        href: "https://github.com/KetchumFion"
     }
 ]
