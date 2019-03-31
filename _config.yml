@@ -12,7 +12,7 @@ github_repo: "https://github.com/KetchumFion" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "利村的大壮家族，有五位美少女和一只猪猪."
-sidebar-avatar: /img/WeChat Image_20190330212629.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/QR.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
