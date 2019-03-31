@@ -3,7 +3,7 @@ title: 大壮家族
 SEOTitle: 大壮家族 | Web
 header-img: img/backG.jpg
 email: ketchumfion@gmail.com
-description: "现居利村的大壮家族，有五位美少女和一只猪猪."
+description: "利村的大壮家族，有五位美少女和一只猪猪~"
 keyword: "大壮家族"
 url: "https://bigstrongfamily.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/KetchumFion" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "利村的大壮家族，有五位美少女和一只猪猪."
+sidebar-about-description: "利村的大壮家族，有五位美少女和一只猪猪~"
 sidebar-avatar: /img/QR.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
