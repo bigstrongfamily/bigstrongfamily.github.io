@@ -16,6 +16,8 @@ tags:
 ## 马赛|Marseilles
 ### Day0
 
+![Arrived](https://raw.githubusercontent.com/bigstrongfamily/bigstrongfamily.github.io/master/img/Screenshot_2019-04-15-01-20-53-262_com.miui.video.png)
+
 
 
 >[关注我们的微博](https://www.weibo.com/u/5896108037)
