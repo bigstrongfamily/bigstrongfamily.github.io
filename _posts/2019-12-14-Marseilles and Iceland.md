@@ -20,10 +20,5 @@ tags:
 
 
 
->[关注我们的微博](https://www.weibo.com/u/5896108037)
-<div id="weibo" class="panel">  
-    <ul class="panel_body">  
-        <iframe id="weibo" style="width:95%; height:700px;" frameborder="0" scrolling="no" src="https://www.weibo.com/u/5896108037?from=myfollow_all&is_all=1"></iframe>  
-    </ul>  
-</div>
+
 
